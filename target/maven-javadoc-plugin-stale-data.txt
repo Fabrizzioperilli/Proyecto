@@ -1,0 +1,57 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/fabri/eclipse-workspace/proyecto/target/classes;C:/Users/fabri/eclipse-workspace/proyecto/target/test-classes;C:/Users/fabri/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/fabri/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/fabri/eclipse-workspace/proyecto/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/fabri/eclipse-workspace/proyecto/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'proyecto 0.0.1-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/fabri/eclipse-workspace/proyecto/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'proyecto 0.0.1-SNAPSHOT Test API'
+es.ull.etsit.proyecto
+'C:/Users/fabri/eclipse-workspace/proyecto/src/test/java/es/ull/etsit/proyecto/AppTest.java'
+C:\Users\fabri\eclipse-workspace\proyecto\target\classes = 1668081942402
+C:\Users\fabri\eclipse-workspace\proyecto\target\test-classes = 1668081942552
+C:\Users\fabri\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1667473310288
+C:\Users\fabri\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1667473310072
+C:\Users\fabri\eclipse-workspace\proyecto\src\test\java = 1667475784477
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\allclasses-index.html = 1668082154459
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\allclasses.html = 1668082154476
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\allpackages-index.html = 1668082154465
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\constant-values.html = 1668082154351
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\deprecated-list.html = 1668082154475
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\element-list = 1668082154263
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\help-doc.html = 1668082154497
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\index-all.html = 1668082154449
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\index.html = 1668082154486
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\member-search-index.js = 1668082154437
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\member-search-index.zip = 1668082154439
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\overview-tree.html = 1668082154404
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\package-search-index.js = 1668082154426
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\package-search-index.zip = 1668082154432
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\script.js = 1668082154507
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\search.js = 1668082154510
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\stylesheet.css = 1668082154503
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\type-search-index.js = 1668082154434
+C:\Users\fabri\eclipse-workspace\proyecto\target\site\testapidocs\type-search-index.zip = 1668082154435
