@@ -26,7 +26,7 @@ jobs:
       - run:
           name: Test
           command: mvn test
-      - store_test_result:
+      - store_test_results:
           path: target/sufire-reports
 
 # Invoke jobs via workflows
